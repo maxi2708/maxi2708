@@ -10,7 +10,8 @@
 ### 💫 About Me
 
 ```python
-maxi = {
+whoami = {
+    "name": "Maxi",
     "role": "AI Engineer & Fullstack Dev",
     "focus": ["AI Agents", "Web Apps", "Scalable Solutions"],
     "learning": "Continuously exploring new tech",
@@ -20,7 +21,7 @@ maxi = {
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maxi2708&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="100%"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maxi2708&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
 
 <br/>
 
@@ -58,8 +59,7 @@ maxi = {
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxi2708&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxi2708&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&langs_count=8" height="180"/>
+  [![Maxi GitHub stats](https://github-readme-stats.vercel.app/api?username=maxi2708)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <br/>
