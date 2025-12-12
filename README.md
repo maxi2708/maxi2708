@@ -3,7 +3,7 @@
 <!-- Hero Section -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20I'am%20Maxi👋&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Fullstack+Developer;Building+Intelligent+Systems;Machine+Learning+%2B+Modern+Web"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Fullstack+Developer;Building+Intelligent+Systems;AI+Engineering+%2B+Modern+Web"/>
 
 <br/>
 
