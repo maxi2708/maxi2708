@@ -54,8 +54,9 @@ whoami = {
 <!-- GitHub Analytics -->
 ### 📈 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=maxi2708&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=maxi2708&theme=tokyonight&hide_border=false)<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maxi2708&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&count_private=true" height="170"/>
+</p>
 
 ### 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=maxi2708&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
