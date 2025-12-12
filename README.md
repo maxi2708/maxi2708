@@ -22,7 +22,7 @@ whoami = {
 ### 📊 GitHub Stats
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=maxi2708&theme=tokyonight&mode=weekly" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=maxi2708&theme=dracula" alt="GitHub Streak" /></a>
 
 
 <br/>
@@ -60,9 +60,15 @@ whoami = {
 <!-- GitHub Analytics -->
 ### 📈 GitHub Analytics
 
-<p align="center">
-  [![Maxi GitHub stats](https://github-readme-stats.vercel.app/api?username=maxi2708)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+![](https://github-readme-stats.vercel.app/api?username=maxi2708&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=maxi2708&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maxi2708&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=maxi2708&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>
 
